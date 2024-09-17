@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+
+body{
+    background-color: #720860;
+    color:whitesmoke;
+    padding-top:20px;
+    text-align:center;
+}
+.bg-color-info{
+    padding: 10px;
+    font-size: 20px;
+}
+.btn{
+padding:10px;
+font-size:15px;
+background-color: #d7132d;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-image:linear-gradient(#d7132d ,#690311);
+}
+
